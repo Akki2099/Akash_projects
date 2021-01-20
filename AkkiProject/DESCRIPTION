@@ -1,0 +1,15 @@
+Package: Assignment2
+Title: Calculation
+Version: 1.0.2
+Authors@R: 
+    person(given = "Akash",
+           family = "Badal",
+           role = c("aut", "cre"),
+           email = "Akash.B@hotmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
